@@ -1,0 +1,12 @@
+obj/
+bin/x64/
+bin/Debug/
+*.user
+.vs/
+CMakeFiles/
+cmake-build-*/
+CMakeCache.txt
+*.obj
+*.pdb
+*.ilk
+*.exp
